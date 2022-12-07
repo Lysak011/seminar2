@@ -113,4 +113,10 @@ Git  - это программа, подготовленная для контр
 Для того чтобы увидеть все ветвления в графическом отображении нужно ввести команду:
 
     git log --all --oneline --graph
-    
+
+
+lajvhsflvnaflvnfnfvnf
+
+slanvlasfnvasjnvasjkl
+
+kjsdvkjsdvksd
